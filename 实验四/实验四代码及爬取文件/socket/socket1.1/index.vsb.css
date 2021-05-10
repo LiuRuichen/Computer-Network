@@ -1,0 +1,64 @@
+   .szu-dpzw p{
+   font-size: 16px!important;
+    color: #000;
+    line-height: 1.9!important;}
+/*隐藏元素*/
+.topnav-1,  
+.topnav-9,
+.topnav-10,  
+.topnav-11,
+.topnav-12,
+.bot-nav-1,
+.bot-nav-4,
+.bot-nav-11,
+.bot-nav-12,
+.none{
+display:none!important;}  
+
+.slick-notice .tit {
+
+    color: #fff!important;}
+  
+/*翻页条颜色*/
+.pb_sys_style1 .p_no_d {
+
+    background-color: #b40048!important;
+    border-color: #b40048!important;
+    color: #fff!important;}
+
+.pb_sys_common .p_fun_d, .pb_sys_common .p_no_d, .pb_sys_common .p_no_o, .pb_sys_common .p_fun a, .pb_sys_common .p_no a {
+
+    padding: 5px 12px!important;
+
+
+    border-radius: 3px!important;}
+#kxyj-list .pb_sys_common .p_fun a, 
+#kxyj-list .pb_sys_common,
+#kxyj-list .pb_sys_common .p_dot,
+#kxyj-list .pb_sys_common .p_no a {
+    color: #fff!important;}
+
+#u17{
+display:block!important;}
+.cont p{
+    text-indent: 2em;}
+    
+ .cont    img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;}
+
+
+.fix-body h3 a{
+color:#fff;}
+.row-a1  h3 a{
+color:#000;}
+.szudata{text-indent:0;}
+.szudata p{
+text-indent:0;}
+
+.ti2 p{
+text-indent:2em;}
+
+.hd-r a{
+cursor: pointer;}
